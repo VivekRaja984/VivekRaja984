@@ -2,16 +2,13 @@
 <h1 align="center">Hi 👋, I'm Vivek Raja</h1>
 <h3 align="center">💻 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekraja&label=Profile%20views&color=0e75b6&style=flat" alt="vivekraja" />
-</p>
+
 
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://portfolio.yourdomain.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rajavivek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
